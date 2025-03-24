@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
   <br/>
   
   <!-- 보라색/자주색 계열 -->
