@@ -19,16 +19,19 @@
         </div> 
     </div>
     <div style="text-align: left;">
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h1> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
-        <!-- 파란색 계열 -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <!-- 파란색 계열 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+  <br/>
+  <!-- 초록색 계열 -->
+  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white">
   <br/>
-  
+        
   <!-- 검정/회색 계열 -->
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
@@ -51,9 +54,10 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat&logo=huggingface&logoColor=white">
 </div>
+<br/>
     </div>
     <div style="text-align: left;"> 
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h1> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldg3045&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldg3045&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
+    <br/>
