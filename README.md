@@ -11,15 +11,19 @@
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/css-663399?style=flat&logo=css&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
-          <img src="https://img.shields.io/badge/postgresql-#4169E1?style=flat&logo=postgresql&logoColor=white">
-          <img src="https://img.icons8.com/?size=100&id=84280&format=png&color=000000">
-        
+          <br/><img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
+          <img src="https://img.shields.io/badge/threedotjs-000000?style=flat&logo=threedotjs&logoColor=white">
+          <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white">
+          <img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat&logo=huggingface&logoColor=white">
+          <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=redis&logoColor=white">
           <br/></div>
     </div>
     <div style="text-align: left;"> 
