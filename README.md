@@ -2,12 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8fe9ff,100:3898ff&height=140&text=Beluga%20is%20a%20white%20whale.%20It%20is%20not%20a%20dolphin&animation=fadeIn&fontColor=ffffff&fontSize=30&fontAlignY=30" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐋 Value_ga Git Hub </h2>  
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐋 Value_ga Git Hub </h1>  
         <div style="font-weight: 700; font-size: 20px; text-align: left; color: #c9d1d9;">
-            🔔현재 진행 중인 프로젝트
+            <br>
+            <h3> 🔔현재 진행 중인 프로젝트 </h3>
             <ul>
             <li> <A href="https://www.notion.so/teamsparta/Miravelle-AI-3D-1ad2dc3ef51480439e29c57a19ebbbd6"> Miravelle </A> : AI 기반 맞춤형 3D 콘텐츠 생성 서비스</li></ul><br>
-            🌱 현재 배우는 기술
+            <h3> 🌱 현재 배우는 기술 </h3>
         <ul>
             <li > Python, Django, DRF, PostgresQL을 활용한 웹 서비스 개발</li>
             <li> FastAPI + Hugging Face를 활용한 이미지 평가 모델 개발 </li>
@@ -18,7 +19,7 @@
         </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h1> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
         <!-- 파란색 계열 -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
@@ -52,7 +53,7 @@
 </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldg3045&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h1> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldg3045&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
     
