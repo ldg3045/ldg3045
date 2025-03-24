@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8fe9ff,100:3898ff&height=140&text=Beluga%20is%20a%20white%20whale.%20It%20is%20not%20a%20dolphin&animation=fadeIn&fontColor=ffffff&fontSize=30&fontAlignY=30" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> value_ga Git Hub </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐋value_ga Git Hub </h2>  
         <div style="font-weight: 700; font-size: 20px; text-align: left; color: #c9d1d9;">
             🔔현재 진행 중인 프로젝트
             <ul>
