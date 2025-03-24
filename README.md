@@ -17,6 +17,9 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
+          <img src="https://img.shields.io/badge/postgresql-#4169E1?style=flat&logo=postgresql&logoColor=white">
+          <img src="https://img.icons8.com/?size=100&id=84280&format=png&color=000000">
+        
           <br/></div>
     </div>
     <div style="text-align: left;"> 
