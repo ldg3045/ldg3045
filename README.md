@@ -19,6 +19,17 @@
         </div> 
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Achievements </h2>
+    <div align="center" dir="auto">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/24edf6d5-d744-4e17-af8f-0cd535539990">
+            <img width="350" alt="image" src="https://github.com/user-attachments/assets/24edf6d5-d744-4e17-af8f-0cd535539990" style="max-width: 100%;">
+        </a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/b7dd1bae-f1e6-476b-bdd5-73e50229be74">
+            <img width="350" alt="image" src="https://github.com/user-attachments/assets/b7dd1bae-f1e6-476b-bdd5-73e50229be74" style="max-width: 100%;">
+        </a>
+    </div>
+    </div>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
   <!-- 파란색 계열 -->
